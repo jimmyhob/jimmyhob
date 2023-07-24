@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @jimmyhob
 - 👀 I’m interested in building my expertise with Unity for learning applications.
 - 🌱 I’m currently learning to use Unity!
+<!--
 - 💞️ I’m looking to collaborate on resource building.
+-->
 - 📫 Reach me through my profile links.
 
 <!---
